@@ -1,0 +1,21 @@
+C:\Users\alex1\CLionProjects\temaPOO1\cmake-build-debug\temaPOO1.exe
+Menu:
+E - evaluate an expression with variables from a field.
+I - check if 2 fields are isomorphic.
+Q - quit.
+I
+Field 1
+Please enter the field. The options are:
+Q - for (Q , + , *)
+R - for (R , + , *)
+C - for (C , + , *).
+Z p - for (Zp, + , *). Here p must be a prime integer (otherwise it will not be a field).
+R
+Field 2
+Please enter the field. The options are:
+Q - for (Q , + , *)
+R - for (R , + , *)
+C - for (C , + , *).
+Z p - for (Zp, + , *). Here p must be a prime integer (otherwise it will not be a field).
+R
+(R, +, *) is isomorphic with (R, +, *)

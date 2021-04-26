@@ -1,0 +1,27 @@
+C:\Users\alex1\CLionProjects\temaPOO1\cmake-build-debug\temaPOO1.exe
+Menu:
+E - evaluate an expression with variables from a field.
+I - check if 2 fields are isomorphic.
+Q - quit.
+E
+Please enter the field. The options are:
+Q - for (Q , + , *)
+R - for (R , + , *)
+C - for (C , + , *).
+Z p - for (Zp, + , *). Here p must be a prime integer (otherwise it will not be a field).
+Z 15
+Wrong input - not a prime number!
+Please enter the field. The options are:
+Q - for (Q , + , *)
+R - for (R , + , *)
+C - for (C , + , *).
+Z p - for (Zp, + , *). Here p must be a prime integer (otherwise it will not be a field).
+Z 17
+Please enter the number of terms in the expression:
+3
+A=1
+B=5
+C=10
+Please enter the expression - no spaces, using capital letters as the terms, basic operation (+, -, *, /):
+(A+B)/(C-B*A)
+(A+B)/(C-B*A) = 8
